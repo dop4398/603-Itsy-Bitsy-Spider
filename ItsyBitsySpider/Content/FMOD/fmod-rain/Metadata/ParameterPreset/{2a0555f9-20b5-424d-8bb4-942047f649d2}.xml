@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{2a0555f9-20b5-424d-8bb4-942047f649d2}">
+		<property name="name">
+			<value>Thunder</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7caec86e-bf84-49ec-82f1-ca1eb78b14b2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4a4f2cdd-27f2-4bc4-9d04-b58a860792de}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4a4f2cdd-27f2-4bc4-9d04-b58a860792de}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="velocity">
+			<value>-0.5</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
