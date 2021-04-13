@@ -72,3 +72,10 @@ ItsyBitsySpider/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# FMOD studio (In folder FMOD)
+ItsyBitsySpider/Content/FMOD/**.user
+ItsyBitsySpider/Content/FMOD/**.unsaved
+ItsyBitsySpider/Content/FMOD/**.cache
+ItsyBitsySpider/Content/FMOD/**.restore
+ItsyBitsySpider/Content/FMOD/**.xml
